@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\bin\Debug\net8.0\GeraArquivoTxt.exe
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\bin\Debug\net8.0\GeraArquivoTxt.deps.json
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\bin\Debug\net8.0\GeraArquivoTxt.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\bin\Debug\net8.0\GeraArquivoTxt.dll
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\bin\Debug\net8.0\GeraArquivoTxt.pdb
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\GeraArquivoTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\GeraArquivoTxt.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\GeraArquivoTxt.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\GeraArquivoTxt.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\GeraArquivoTxt.dll
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\refint\GeraArquivoTxt.dll
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\GeraArquivoTxt.pdb
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\GeraArquivoTxt.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\ArquivoAlura\ArquivoAlura\obj\Debug\net8.0\ref\GeraArquivoTxt.dll
